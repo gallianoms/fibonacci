@@ -7,3 +7,5 @@ const fib = (num: number) => {
 }
 
 console.log(fib(10))
+
+//! algorithmic complexity 2^N

@@ -8,3 +8,4 @@ var fib = function (num) {
     }
 };
 console.log(fib(10));
+//! algorithmic complexity 2^N
